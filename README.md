@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DinEilie (Ex-IT Administrator)
+- 👀 I’m interested in Game and Web development
+- 🌱 I’m currently learning Computer Science at The Open University
+- 📫 Please contact me via Email\LinkedIn.
