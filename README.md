@@ -10,7 +10,7 @@
 - ⚡ Fun fact **I'm a Guild Wars 2 player 🎮**
 
 <h3 align="left">Projects:</h3>
-<p align="left">![msedge_Ga7hOhHjC3](https://user-images.githubusercontent.com/98718983/229157651-54e1e8f4-117d-4761-bf3c-707132f64060.png)</p>
+<p align="left"><img src="[img_girl.jpg](https://user-images.githubusercontent.com/98718983/229157651-54e1e8f4-117d-4761-bf3c-707132f64060.png)" alt="Portfolio" width="500" height="400"></p>
 <p align="left">
 </p>
 
