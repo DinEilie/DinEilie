@@ -1,25 +1,24 @@
 <h1 align="left">Shalom! I'm Din Eilie</h1>
 <h3 align="left">A Full Stack developer from Israel</h3>
 
-- 🌱 I’m currently learning **B.Sc Computer Science at the Open University** and **Full Stack development at TESI**
+- 🌱 I’m currently learning **Full Stack development at TESI** and **B.Sc Computer Science at the Open University**.
 
 - 👨‍💻 I had worked for 2.8 years as an IT-Administrator
 
 - 📫 Feel free to email me! **dineilie1997@gmail.com**
 
-- ⚡ Fun fact **I'm a Guild Wars 2 player 🎮**
-
-<h3 align="left">Projects:</h3>
+<h2 align="left">Projects:</h3>
 <p align="left">
-My personal portfolio:
-![msedge_Ga7hOhHjC3](https://user-images.githubusercontent.com/98718983/229159035-031b9718-9229-4205-925e-786a65e91b76.png)
+<a href="https://dineilie.github.io/portfolio"><h3 align="left">Personal Portfolio</h3></a>
 </p>
-<p align="right">
-  fdsfdsfd
+<img align="left" src="https://user-images.githubusercontent.com/98718983/229159395-7259a53d-cc00-4c81-8f32-3682eb26f64b.png" />
+<p align="left">
+- 💡 Info: This is my main portfolio where I show my knowledge and passion about web and software development.
+</p>
+<p align="left">
+- 👨‍💻 Skills:  HTML5, CSS3, Javascript, TypeScript and Bootstrap.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineilie&show_icons=true&locale=en&layout=compact" alt="dineilie" /></p>
 
 
 
