@@ -9,13 +9,14 @@
 
 - ⚡ Fun fact **I'm a Guild Wars 2 player 🎮**
 
-<h3 align="left">Stats:</h3>
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dineilie&show_icons=true&locale=en" alt="dineilie" /></p>
+<h3 align="left">Projects:</h3>
+<p align="left">![msedge_Ga7hOhHjC3](https://user-images.githubusercontent.com/98718983/229157651-54e1e8f4-117d-4761-bf3c-707132f64060.png)</p>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dineilie&show_icons=true&locale=en&layout=compact" alt="dineilie" /></p>
+
 
 
 
