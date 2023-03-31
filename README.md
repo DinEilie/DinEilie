@@ -9,19 +9,22 @@
 
 - 📫 Feel free to email me! **dineilie1997@gmail.com**
 
-- 🧾 <a href="https://dineilie.github.io/portfolio/files/Din%20Eilie%20Resume.pdf" target="_blank">View Resume</a> | <a href="https://dineilie.github.io/portfolio/files/Din%20Eilie%20Resume.pdf" download>Download Resume</a>
+- 🧾 <a href="https://dineilie.github.io/portfolio/files/Din%20Eilie%20Resume.pdf" target="_blank">View Resume</a>
 
 <!-- Projects Section -->
 <h2 align="left">Projects</h3>
 
 <!-- Portfolio -->
-<h3 align="left"><a href="https://dineilie.github.io/portfolio">Personal Portfolio</a></h3>
-<img align="left" src="https://user-images.githubusercontent.com/98718983/229159395-7259a53d-cc00-4c81-8f32-3682eb26f64b.png" />
+<h3 align="left"><a href="https://dineilie.github.io/portfolio">Personal Portfolio</a></h3><a href="https://dineilie.github.io/portfolio">
+<img align="left" src="https://user-images.githubusercontent.com/98718983/229159395-7259a53d-cc00-4c81-8f32-3682eb26f64b.png" /></a>
 <p align="left">
 - 💡 <b> Info:</b><i> This is my main portfolio where I show my knowledge and passion about web and software development.</i>
 </p>
 <p align="left">
 - 🛠 <b> Skills:</b><i> HTML5, CSS3, JavaScript, TypeScript and Bootstrap.</i>
+</p>
+<p align="left">
+- 🌈 <b> Source:</b><a href="https://github.com/DinEilie/portfolio"> https://github.com/DinEilie/portfolio </a>
 </p>
 </br></br></br></br></br></br></br></br>
 
@@ -36,7 +39,7 @@
 </p>
 </br></br></br></br>
 
-<!-- Portfolio -->
+<!-- Assembler Compiler -->
 <h3 align="left"><a href="https://dineilie.github.io/portfolio">Personal Portfolio</a></h3>
 <img align="left" src="https://user-images.githubusercontent.com/98718983/229159395-7259a53d-cc00-4c81-8f32-3682eb26f64b.png" />
 <p align="left">
