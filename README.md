@@ -7,7 +7,7 @@
 
 - 🙋‍♂️ I am **open for work!** looking for a Web Developer position (Front-End || Back-End || Full-Stack)
 
-- 📫 Feel free to email me! **dineilie1997@gmail.com**
+- 📫 Feel free to contact me! **dineilie1997@gmail.com** OR **https://www.linkedin.com/in/dineilie1997**
 
 - 🧾 <a href="https://dineilie.github.io/portfolio/files/Din%20Eilie%20Resume.pdf" target="_blank">View Resume</a>
 
@@ -21,7 +21,7 @@
 - 💡 <b> Info:</b><i> This is my main portfolio where I show my knowledge and passion about web and software development.</i>
 </p>
 <p align="left">
-- 🛠 <b> Skills:</b><i> HTML5, CSS3, JavaScript, TypeScript and Bootstrap.</i>
+- 🛠 <b> Skills:</b><i> HTML5, CSS3, Javaccript, TypeScript and Bootstrap.</i>
 </p>
 <p align="left">
 - 🌈 <b> Source:</b><a href="https://github.com/DinEilie/portfolio"> https://github.com/DinEilie/portfolio </a>
