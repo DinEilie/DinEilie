@@ -1,5 +1,5 @@
 <h1 align="left">Shalom! I'm Din Eilie 👋</h1>
-<h3 align="left">Full-Stack developer from Israel</h3>
+<h3 align="left">Web and Software developer from Israel</h3>
 
 - 🌱 I’m currently learning **Full-Stack development at TESI** and **B.Sc Computer Science at the Open University**.
 
