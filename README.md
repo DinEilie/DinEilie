@@ -1,11 +1,11 @@
 <h1 align="left">Shalom! I'm Din Eilie 👋</h1>
 <h3 align="left">Fullstack developer from Israel</h3>
 
-- 🌱 I’m currently learning **Full-Stack development at TESI** and **B.Sc Computer Science at the Open University**.
+- 👨‍💼 Freelancer (since April 2023)
 
 - 👨‍💻 I had worked for 2.8 years as an IT-Administrator
 
-- 🙋‍♂️ I am **open for work!** looking for a Web Developer position (Front-End || Back-End || Full-Stack)
+- 🙋‍♂️ Accepting both freelance and hired positions.
 
 - 📫 Feel free to contact me! **dineilie1997@gmail.com** OR **https://www.linkedin.com/in/dineilie1997**
 
