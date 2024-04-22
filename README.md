@@ -1,9 +1,9 @@
 <h1 align="left">Shalom! I'm Din Eilie 👋</h1>
 <h3 align="left">Fullstack developer from Israel</h3>
 
-- 👨‍💼 Freelancer (since April 2023)
+- 👨‍💼 Full Stack Developer - 1 Years of experience
 
-- 👨‍💻 I had worked for 2.8 years as an IT-Administrator
+- 👨‍💻 IT Administrator - 2.8 Years of experience
 
 - 🙋‍♂️ Accepting both freelance and hired positions.
 
