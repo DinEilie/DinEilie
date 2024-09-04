@@ -1,11 +1,11 @@
 <h1 align="left">Shalom! I'm Din Eilie 👋</h1>
 <h3 align="left">Fullstack developer from Israel</h3>
 
-- 👨‍💼 Full Stack Developer - 1 Years of experience
+- 👨‍💼 Full Stack Developer - 1.5 Years of experience
 
 - 👨‍💻 IT Administrator - 2.8 Years of experience
 
-- 🙋‍♂️ Accepting both freelance and hired positions.
+- 🙋‍♂️ Open for new web development positions.
 
 - 📫 Feel free to contact me! **dineilie1997@gmail.com** OR **https://www.linkedin.com/in/dineilie1997**
 
@@ -13,6 +13,17 @@
 
 <!-- Projects Section -->
 <h2 align="left">Projects</h3>
+
+<!-- Olyo - Real estate platform -->
+<h3 align="right"><a href="https://dineilie.github.io/Algorithm-Visualizer/">Coding Challenges</a></h3>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIaTZMqQBcE49Fbd_vczGjt0_xK2RrE5_6i6PwPDSf1p0CSh7XFMX-_57YAlEzEZzTxU&usqp=CAU" />
+<p align="left">
+- 💡 <b> Info:</b><i>Collaborated with a senior full-stack developer to design and develop a new backend and back-office system for a real estate service. Developed the backend using Nest.js and Vue.js for frontend.</i>
+</p>
+<p align="left">
+  - 🛠 <b> Skills:</b><i> Nest.js, Prisma, MySQL, AWS S3, Vue.js, Typescript</i>
+</p>
+</br></br></br></br>
 
 <!-- Portfolio -->
 <h3 align="left"><a href="https://dineilie.github.io/portfolio">Personal Portfolio</a></h3><a href="https://dineilie.github.io/portfolio">
