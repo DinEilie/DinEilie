@@ -5,39 +5,70 @@
 
 - 👨‍💻 IT Administrator - 2.8 Years of experience
 
-- 🙋‍♂️ Open for new web development positions.
+- 🙋‍♂️ Open for web development positions (Fullstack/Frontent/Backend).
 
-- 📫 Feel free to contact me! **dineilie1997@gmail.com** OR **https://www.linkedin.com/in/dineilie1997**
+- 📫 Feel free to contact me:</br>
+ **dineilie1997@gmail.com**</br>
+ **https://www.linkedin.com/in/dineilie1997**</br>
+ **https://www.dineilie.com**
 
 - 🧾 <a href="https://dineilie.github.io/portfolio/files/Din%20Eilie%20Resume.pdf" target="_blank">View Resume</a>
 
-<!-- Projects Section -->
-<h2 align="left">Projects</h3>
+<!-- Business Projects Section -->
+<h2 align="center">👨‍💼 Business Projects</h3>
 
 <!-- Olyo - Real estate platform -->
-<h3 align="right"><a href="https://dineilie.github.io/Algorithm-Visualizer/">Coding Challenges</a></h3>
-<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIaTZMqQBcE49Fbd_vczGjt0_xK2RrE5_6i6PwPDSf1p0CSh7XFMX-_57YAlEzEZzTxU&usqp=CAU" />
+<h3 align="right"><a href="https://studioy.io/olyo/">Olyo - Real Estate platform</a></h3>
+<a href="https://studioy.io/olyo/"><img width="500" align="right" src="https://studioy.io/wp-content/uploads/2023/10/aquaresoet.png" /></a>
 <p align="left">
-- 💡 <b> Info:</b><i>Collaborated with a senior full-stack developer to design and develop a new backend and back-office system for a real estate service. Developed the backend using Nest.js and Vue.js for frontend.</i>
+- 💡 <b> Info:</b><i> Collaborated with a senior full-stack developer to design and develop a new backend and back-office system for a real estate service. Developed the backend using Nest.js and Vue.js for frontend.</i>
 </p>
 <p align="left">
-  - 🛠 <b> Skills:</b><i> Nest.js, Prisma, MySQL, AWS S3, Vue.js, Typescript</i>
+  - 🛠 <b> Skills:</b><i> Nest.js, Prisma, MySQL, AWS S3, Vue.js (Vuetify), Typescript</i>
 </p>
-</br></br></br></br>
+</br></br></br></br></br></br>
 
-<!-- Portfolio -->
-<h3 align="left"><a href="https://dineilie.github.io/portfolio">Personal Portfolio</a></h3><a href="https://dineilie.github.io/portfolio">
-<img align="left" src="https://user-images.githubusercontent.com/98718983/229159395-7259a53d-cc00-4c81-8f32-3682eb26f64b.png" /></a>
+<!-- MapleBGU -->
+<h3 align="left"><a href="https://maplebgu.netlify.app/">MapleBGU</a></h3><a href="https://maplebgu.netlify.app/">
+<img width="500" align="left" src="https://dineilie.com/images/projectMapleBGU.png" /></a>
 <p align="left">
-- 💡 <b> Info:</b><i> This is my main portfolio where I show my knowledge and passion about web and software development.</i>
+- 💡 <b> Info:</b><i> Developed a responsive web application for an online gaming server, using React.js, Typescript, TailwindCSS, and Vite.js while also maintaining back-end operations such as registration and database communications.</i>
 </p>
 <p align="left">
-- 🛠 <b> Skills:</b><i> HTML5, CSS3, Javaccript, TypeScript and Bootstrap.</i>
+- 🛠 <b> Skills:</b><i> Vite.js, React.js, Typescript, Zod, TailwindCSS, Zustand, Netlify-serverless functions</i>
+</p>
+</br></br></br></br></br></br></br>
+
+<!-- Personal Projects Section -->
+<h2 align="center">💻 Personal Projects</h3>
+
+<!-- Scadia -->
+<h3 align="right"><a href="https://pokedex-pwa-ten.vercel.app/">Scadia</a></h3><a href="https://pokedex-pwa-ten.vercel.app/">
+<img width="500" align="right" src="https://scadia.vercel.app/" /></a>
+<p align="left">
+- 💡 <b> Info:</b><i> This is a personal project that shows my Frontend skills as a React developer. This website fetches information from a pokemon REST API and presents the information to the user. Every pokemon has its own dynamic route for personal page, also there is an infinite scrolling that fetches more pokemon as the user scrolls.</i>
 </p>
 <p align="left">
-- 🌈 <b> Source:</b><a href="https://github.com/DinEilie/portfolio"> https://github.com/DinEilie/portfolio </a>
+- 🛠 <b> Skills:</b><i> Vite.js, React.js, TailwindCSS, Typescript, React-Query, Zod, Zustand</i>
 </p>
-</br></br></br></br></br></br></br></br>
+<p align="left">
+- 🌈 <b> Source:</b><a href="https://github.com/DinEilie/Pokedex-PWA"> https://github.com/DinEilie/Pokedex-PWA </a>
+</p>
+</br></br></br></br></br></br>
+
+<!-- Pokedex -->
+<h3 align="right"><a href="https://pokedex-pwa-ten.vercel.app/">Pokedex</a></h3><a href="https://pokedex-pwa-ten.vercel.app/">
+<img width="500" align="right" src="https://dineilie.netlify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpokedex.a35ee947.png&w=384&q=75" /></a>
+<p align="left">
+- 💡 <b> Info:</b><i> This is a personal project that shows my Frontend skills as a React developer. This website fetches information from a pokemon REST API and presents the information to the user. Every pokemon has its own dynamic route for personal page, also there is an infinite scrolling that fetches more pokemon as the user scrolls.</i>
+</p>
+<p align="left">
+- 🛠 <b> Skills:</b><i> Vite.js, React.js, TailwindCSS, Typescript, React-Query, Zod, Zustand</i>
+</p>
+<p align="left">
+- 🌈 <b> Source:</b><a href="https://github.com/DinEilie/Pokedex-PWA"> https://github.com/DinEilie/Pokedex-PWA </a>
+</p>
+</br></br></br></br></br></br>
 
 <!-- Coding Challenges -->
 <h3 align="right"><a href="https://dineilie.github.io/Algorithm-Visualizer/">Coding Challenges</a></h3>
@@ -49,9 +80,11 @@
   - 🛠 <b> Skills:</b><i> HTML5, CSS3, JavaScript, jQuery and Bootstrap.</i>
 </p>
 <p align="left">
-- 🌈 <b> Source:</b><a href="https://github.com/DinEilie/Algorithm-Visualizer"> https://github.com/DinEilie/Algorithm-Visualizer </a>
 </p>
 </br></br></br></br>
+
+<!-- Academic Projects Section -->
+<h2 align="center">🎓 Personal Projects</h3>
 
 <!-- Assembler Compiler -->
 <h3 align="left"><a href="https://github.com/DinEilie/Assembler_Compiler">Assembler Compiler</a></h3>
