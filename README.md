@@ -1,11 +1,9 @@
 <h1 align="left">Shalom! I'm Din Eilie 👋</h1>
 <h3 align="left">Fullstack developer from Israel</h3>
 
-- 👨‍💼 Full Stack Developer - 1.5 Years of experience
+- 👨‍💼 Full Stack Developer (2023 - Present)
 
-- 👨‍💻 IT Administrator - 2.8 Years of experience
-
-- 🙋‍♂️ Open for web development positions (Fullstack/Frontent/Backend).
+- 👨‍💻 IT Administrator (2018 - 2021)
 
 - 📫 Feel free to contact me:</br>
  **dineilie1997@gmail.com**</br>
